@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1647929699 source:d:\c\mistrcmp\main.c
+	"header.h"
+
+1647930369 d:\c\mistrcmp\header.h
+	<stdio.h>
+	<stdlib.h>
+
+1647930355 source:d:\c\mistrcmp\funciones.c
+	"header.h"
+
